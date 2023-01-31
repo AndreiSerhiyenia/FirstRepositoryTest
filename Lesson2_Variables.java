@@ -6,7 +6,7 @@ public class Lesson2_Variables {
         short myShort = 23213;
         long myLong = 532263;
 
-        double myDouble = 231.32;
+        double myDouble = 2321.32;
         float myFloat = 234234.4f;
 
         char myChar = 'a';
@@ -14,5 +14,6 @@ public class Lesson2_Variables {
 
         byte myByte = 1000;
         System.out.println(myInt);
-    }
+ 
+   }
 }
